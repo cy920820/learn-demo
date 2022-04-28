@@ -1,6 +1,6 @@
 {
   "name": "foo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -16,5 +16,6 @@
   "publishConfig": {
     "registry": "https://registry.npm.taobao.org/",
     "access": "public"
-  }
+  },
+  "gitHead": "e72e577c62cfda180abe10cb8f78290bdceae2a7"
 }
